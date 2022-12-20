@@ -1,0 +1,14 @@
+.navbar-logo { height: 4.6875rem; width: 4.6875rem; }
+
+.carousel-image { height: 75vh; }
+
+.carousel-image-overlay { position: absolute; top: 0; left: 0; 
+                          height: 100%; width: 100%; 
+                          background-color: rgba(0, 0, 0, 0.1); }
+
+/*.j { color: aliceblue;}*/
+
+
+
+
+
